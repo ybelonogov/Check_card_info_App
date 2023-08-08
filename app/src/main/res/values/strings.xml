@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Check card info (composable)</string>
+    <string name="base_url">https://lookup.binlist.net/</string>
+</resources>
